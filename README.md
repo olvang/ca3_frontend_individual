@@ -10,7 +10,7 @@ Brugere:
 <p>Backend github: https://github.com/olvang/ca3_individual</p>
 <p>Frontend github: https://github.com/olvang/ca3_frontend_individual</p>
 <p>Backend deployed: https://vangomango.dk/CA3/</p>
-<p>Frontend deployed: http://vangca3.surge.sh/</p>
+<p>Frontend deployed: https://vangca3.surge.sh/</p>
 <p>Travis: https://travis-ci.com/olvang/ca3_individual</p>
 
 _____________________
